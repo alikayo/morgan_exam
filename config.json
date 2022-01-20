@@ -1,0 +1,11 @@
+{
+  "ws_host": "localhost",
+  "ws_port": 8080,
+  "db_account": {
+    "host": "localhost",
+    "port": 5432,
+    "username": "pgroot",
+    "password": "pgkudarat",
+    "db_name": "dwmorgan"
+  }
+}
